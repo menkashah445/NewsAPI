@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News API</string>
+    <string name="main_heading_display_here_main_heading_display_here">Main heading Display here Main heading display here</string>
+    <string name="by_brijesh">By Brijesh</string>
+    <string name="published_at">Published At</string>
+    <string name="main_content">Main Content</string>
+    <!--    <string name="api_key">20f97415ea00405c998161a0277a5cc4</string>-->
+
+</resources>
